@@ -28,3 +28,8 @@ At a minimal level, as of now (March 4, 2017) only energy produce by solar sourc
 **To check the updated values** of other source of energy provider such as hydro and storage
 >java edu.tcd.nds.nwmgmt.snmp.PrintStateOfManagedObject 127.0.0.1/2001
 
+## References
+http://www.snmp4j.org/
+https://blog.jayway.com/2010/05/21/introduction-to-snmp4j/
+http://www.jitendrazaa.com/blog/java/snmp/generating-trap-in-snmp-using-snmp4j/
+For rest of the issues, use https://stackoverflow.com/
