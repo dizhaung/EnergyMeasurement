@@ -21,7 +21,7 @@ public class SimulateSummarScenario {
 		try { 
 			manager = new EnergyMeasurementManager(ipWithPort);
 			manager.setAsString(generationBySolarOID, generationBySolarValue);
-			manager.sendSolarEnergyGenerationTrap(generationBySolarOID, generationBySolarValue); // solar power generation increases from 20 to 30 during summer
+			manager.sendSolarEnergyGenerationTrap(generationBySolarOID, generationBySolarValue); // solar power generation increases from 20 to 40 during summer
 		} catch (IOException ex){
 			ex.printStackTrace();
 		} finally {
