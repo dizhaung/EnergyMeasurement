@@ -217,7 +217,7 @@ public class EnergyMeasurementManager {
 		System.out.println("*****************************");
 		System.out.println("Welcome to Energy Measurement");
 		System.out.println("*****************************");
-		System.out.print("Options \n1. Print Manage Object Values\n2. Simulate Summar Scenario\n3. Exit\nEnter Choice: ");
+		System.out.print("Options \n1. Print Managed Object Values\n2. Simulate summer Scenario\n3. Exit\nEnter Choice: ");
 	}
 	
 	public static void main(String args[]) {
